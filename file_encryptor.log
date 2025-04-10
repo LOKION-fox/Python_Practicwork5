@@ -1,0 +1,4 @@
+2025-04-10 15:55:50,223 - INFO - Using 5 processes for encryption
+2025-04-10 15:55:50,316 - INFO - Encryption completed successfully. Result saved to lent.txt
+2025-04-10 15:58:02,962 - INFO - Using 5 processes for decryption
+2025-04-10 15:58:03,052 - INFO - Decryption completed successfully. Result saved to test2.txt
